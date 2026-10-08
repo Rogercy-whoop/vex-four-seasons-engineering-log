@@ -1,0 +1,28 @@
+# Working notes: inventory, questions, drafts. Never published.
+_working/
+
+# Raw source material copied in for processing. Publish only processed, consented copies.
+_materials/
+
+# SolidWorks assemblies are large and depend on the VEX part library: Release assets only.
+# Our own small custom parts (cad/parts/*.SLDPRT) are committed.
+*.SLDASM
+*.sldasm
+*.SLDDRW
+
+# Video files: link to YouTube in media.md instead.
+*.mp4
+*.mov
+*.MOV
+
+# VEXcode build output
+build/
+*.o
+*.d
+*.elf
+*.bin
+
+# OS clutter
+Thumbs.db
+desktop.ini
+.DS_Store
