@@ -26,3 +26,6 @@ build/
 Thumbs.db
 desktop.ini
 .DS_Store
+
+# Private summary for the essay/resume chat (contains a "must not claim" list)
+repo_summary_for_resume.md
