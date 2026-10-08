@@ -31,7 +31,7 @@ The full reasoning, decision by decision, is in the **[design log](design-log.md
 | Start of the season | Concept study and brainstorm; ramp robot chosen; Gen 1 built and tested | Gen 1 |
 | Jul–Aug 2025 | Gen 2 built; its autonomous code written | Gen 2 |
 | 16 Aug 2025 | WRCT 2025 selection: our sister team 117B wins the high-school division with a Gen 2-design robot; I helped in development, in the pits and with code. Three problems with the design found. | Gen 2 |
-| 22–24 Aug 2025 | Huzhou invitational ([RE-V5RC-25-0863](https://events.vex.com/robot-competitions/vex-robotics-competition/RE-V5RC-25-0863.html)): 29th of 54 | Gen 2 |
+| 22–24 Aug 2025 | Huzhou invitational ([RE-V5RC-25-0863](https://events.vex.com/robot-competitions/vex-robotics-competition/RE-V5RC-25-0863.html)): 29th of 54 ([photos](../../media.md#huzhou-invitational-august-2025)) | Gen 2 |
 | Aug–Nov 2025 | Gen 3 designed and built | Gen 3 |
 | **21–23 Nov 2025** | **Suzhou: Division 2 champion, overall runner-up** (below) | Gen 3 |
 | Dec 2025 – Jan 2026 | Autonomous routines refined; Kunshan event ([RE-V5RC-26-4036](https://events.vex.com/robot-competitions/vex-robotics-competition/RE-V5RC-26-4036.html)) | Gen 3 |
@@ -60,5 +60,9 @@ The full reasoning, decision by decision, is in the **[design log](design-log.md
 ![Our trophy from Suzhou, with passes from the season's events](media/suzhou-trophy-and-event-passes.jpg)
 
 *Our trophy from Suzhou, with passes from the season's events, including the VEX World Championship China selection in Shanghai and the Huzhou and Kunshan invitationals.*
+
+![SFLS teams at Suzhou](media/suzhou-2025-11-sfls-teams.jpg)
+
+*Our school's teams at Suzhou: 117V with sister teams 117Z and 3778D, and our teacher.*
 
 During the event, a result was disputed. I explained our case to the referees on my own, in my second language. They ordered a rematch, and we won it. (The online record shows only the final result of each round.) → [leadership](../../leadership.md)
