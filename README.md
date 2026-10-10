@@ -21,7 +21,7 @@ Yu Chen (Roger) · Grade 12 · Suzhou Foreign Language School (SFLS), China
 
 1. **[The 2025–26 design log](seasons/2025-26-push-back/design-log.md).** Three robots in one season. What each one got wrong, what we changed, and why, including the design we replaced even after it had won a competition.
 2. **[The autonomous code](seasons/2025-26-push-back/code/README.md).** How the routes were planned, how they changed after real matches, and how the code grew and was cut back.
-3. **[Reading our control template line by line](https://github.com/Rogercy-whoop/vex-auton-visualizer/blob/main/docs/FINDINGS.md)** (July 2026). The discovery that every drive move had been ending on its timeout, never on arrival.
+3. **[Reading our control template line by line](https://github.com/Rogercy-whoop/vex-auton-visualizer/blob/main/docs/FINDINGS.md)** (July 2026). The discovery that, all through 2025–26, every drive move had been ending on its timeout, never on arrival.
 
 ---
 
@@ -33,7 +33,7 @@ Yu Chen (Roger) · Grade 12 · Suzhou Foreign Language School (SFLS), China
 
 **Grade 11: captain, and three robots.** In 2025–26 I captained 117V. We built **Gen 1**, found it could not store enough blocks and that its rubber-band rollers tangled with other robots, and replaced it with **Gen 2**: a new drivetrain, a rubber-wheel intake on a floating rail, double-row storage and a belt-and-paddle transfer. In August our club's sister team 117B took a robot of the Gen 2 design to the WRCT 2025 selection and won the high-school division; I helped them during development, in the pits and with their code. Watching that design compete showed us three problems: blocks leaking from the double row, an autonomous with no real advantage, and side-by-side jams. So we rebuilt ours as **Gen 3**, with a single S-shaped storage channel and rollers deliberately run at different speeds. In November, Gen 3 **won Division 2 and finished runner-up overall** at a national invitational in Suzhou. During that event I explained a disputed result to the referees on my own, in my second language; they ordered a rematch, and we won it. In February we competed at the VEX World Championship China selection in Shanghai. → [2025–26](seasons/2025-26-push-back/README.md) · [leadership, in my own words](leadership.md)
 
-**After the season: finding out why.** After two seasons of tuning autonomous routines by trial and error, in July 2026 I read our coach's motion-control template line by line. I found that every drive move had been ending on its timeout, never on arrival. Then I built a simulator that runs our real code on a laptop; all four teams in the club now use it. → [vex-auton-visualizer](https://github.com/Rogercy-whoop/vex-auton-visualizer)
+**After the season: finding out why.** After two seasons of tuning autonomous routines by trial and error, in July 2026 I read our coach's motion-control template line by line. I found that every drive move that season had been ending on its timeout, never on arrival. Then I built a simulator that runs our real code on a laptop; all four teams in the club now use it. → [vex-auton-visualizer](https://github.com/Rogercy-whoop/vex-auton-visualizer)
 
 **Grade 12.** Captain again, for *Override*. The robot is paused while the team applies to university. → [2026–27](seasons/2026-27-override/README.md)
 

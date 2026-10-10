@@ -85,7 +85,7 @@ The idea came from watching **team 16610A** at the Mall of America event. Their 
 
 ![Gen 3 in SolidWorks](media/gen3-solidworks-v2-rg.webp)
 
-*The Gen 3 assembly in SolidWorks (file `V2-RG`), which I built with our mentor. The feature tree shows its subassemblies, such as the drive base `450` and the wheel modules `3.25-48`.*
+*The Gen 3 assembly in SolidWorks (file `V2-RG`), which I built with our mentor. The feature tree on the left lists its subassemblies, such as `450` and `3.25-48`.*
 
 ### Motor budget: 9 motors, exactly 88 W
 
